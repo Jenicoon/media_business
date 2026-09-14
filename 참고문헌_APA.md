@@ -4,6 +4,8 @@ APA 7판 기준. 교수님 피드백 반영본의 본문 인용과 대응합니�
 
 ## 자료
 
+문화방송. (n.d.). *개요*. <https://aboutmbc.imbc.com/korean/corporateinfo/brief/>
+
 방송미디어통신위원회. (2026, April 20). *‘24년도 방송사업자 시청점유율 산정결과 발표* [보도자료]. <https://www.kmcc.go.kr/user.do?mode=view&page=A05030000&boardId=1113&boardSeq=68500>
 
 방송통신위원회. (2024a, December 30). *방통위, 「2024 방송매체 이용행태조사」 결과 발표* [보도자료]. <https://www.kmcc.go.kr/user.do?mode=view&page=A05030000&boardId=1113&boardSeq=64951>
@@ -11,6 +13,8 @@ APA 7판 기준. 교수님 피드백 반영본의 본문 인용과 대응합니�
 방송통신위원회. (2024b, December). *OTT 관련 주요 현황 및 방송시장 영향분석 결과* [보고서]. <https://www.kmcc.go.kr/download.do?fileSeq=60122>
 
 방송통신위원회. (2025, June 30). *2024년 방송사업매출 전년 대비 0.9% 감소한 18조 8,042억원* [보도자료]. <https://www.kmcc.go.kr/download.do?fileSeq=61499>
+
+서효빈. (2025, March 26). OTT 영향력 커지며 방송 광고, 콘텐츠 제작시장 '위축'. *아이뉴스24*. <https://www.inews24.com/view/1827407>
 
 윤지혜. (2025, April 14). 넷플릭스 韓 매출 '1조' 육박…티빙, 웨이브는 적자 축소에 안간힘. *머니투데이*. <https://v.daum.net/v/4CTi6z9HYG>
 
