@@ -12,7 +12,7 @@ APA 7판 기준. 교수님 피드백 반영본의 본문 인용과 대응합니�
 
 방송통신위원회. (2024b, December). *OTT 관련 주요 현황 및 방송시장 영향분석 결과* [보고서]. <https://www.kmcc.go.kr/download.do?fileSeq=60122>
 
-> 본문 적용: 15장 OTT 이용률의 2022~2023년 값은 위 보고서 p. 4, 2024년 값과 실시간 시청 경험 비율은 방송통신위원회 (2024a), pp. 3–4를 사용했습니다. 해당 보도자료 PDF: <https://www.kmcc.go.kr/download.do?fileSeq=60213>. 17장은 숏폼·AI 영상과 방송산업 변화로 개편했으며 세부 출처는 아래 추가 자료 및 조사 노트에 정리했습니다.
+> 본문 적용: 15장 OTT 이용률의 2022~2023년 값은 위 보고서 p. 4, 2024년 값과 실시간 시청 경험 비율은 방송통신위원회 (2024a), pp. 3–4를 사용했습니다. 해당 보도자료 PDF: <https://www.kmcc.go.kr/download.do?fileSeq=60213>. 17장은 AI와 방송 제작으로 개편했으며 세부 출처는 아래 추가 자료 및 조사 노트에 정리했습니다.
 
 방송통신위원회. (2025, June 30). *2024년 방송사업매출 전년 대비 0.9% 감소한 18조 8,042억원* [보도자료]. <https://www.kmcc.go.kr/download.do?fileSeq=61499>
 
@@ -50,6 +50,16 @@ TV CHOSUN. (2024, July 15). *TV CHOSUN <미스터트롯3> 참가자 모집 시�
 
 상세 수치와 해석: [17페이지 조사 노트](17페이지_숏폼_AI_자료조사.md). 기관명이 다른 기존 방송통신위원회 (2025)와 구분합니다.
 
+## 17페이지 AI 제작 사례
+
+손미정. (2026, August 28). “AI로 무언가 만들자 결심…‘김부장’ 북파 장면 3분, 통째로 AI 제작”. 헤럴드경제. <https://v.daum.net/v/20260828114241702>
+
+한국교육방송공사. (2026, March 31). 지상파 최초 100% AI 드라마 콘텐츠, EBS ‘AI 드라마 - 부활 수업’ 4월 5일 첫 방송 [보도자료]. <https://about.ebs.co.kr/board/bbs?boardId=31&boardTypeId=1&cmd=view&postId=30004981676>
+
+모피어스 스튜디오. (2026, July 9). 시청률 폭발 SBS 드라마 ‘김부장’, 과감한 AI 도입도 화제… 한국 드라마 최초 3분 시퀀스 풀 AI 제작 사례 [보도자료·이미지]. 뉴스와이어. <https://www.newswire.co.kr/newsRead.php?no=1038227>
+
+현재 구성 및 해석: [AI와 방송 제작 조사 노트](17페이지_AI_방송제작_자료조사.md). 위 숏폼·AI 시청 경험 자료는 이전 구성의 조사 기록입니다.
+
 ## 사진
 
 Detail .co. (2025, December 2). *Person watching video on smartphone screen of smartphone* [사진]. Unsplash. <https://unsplash.com/photos/person-watching-video-on-smartphone-screen-of-smartphone-2WRks8M4eIc>
@@ -65,3 +75,6 @@ McGhee, S. (2017, June 9). *Person sitting in front bookshelf* [사진]. Unsplas
 사진은 Unsplash License로 제공되는 일반 이미지입니다. 표지와 9장 조정실은 오스트리아 ORF 현장이며 국내 방송사 사진으로 설명하지 않습니다. 같은 사진의 서지정보는 한 번만 기재했습니다.
 
 팀의 추가 조사 파일은 자료 탐색과 KBS 집계 단위 확인에 활용했습니다. 발표에서는 확인한 원문을 인용하며, 해당 파일의 2025년 이후 실적과 확인되지 않은 채널별 수치는 전재하지 않았습니다.
+
+
+17페이지 〈김부장〉 이미지는 모피어스 스튜디오 (2026) 보도자료 제공 이미지로, 위 Unsplash 사진들과 출처가 다릅니다.

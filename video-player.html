@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="strict-origin-when-cross-origin"><title>김부장 AI 제작 영상</title><style>html,body{margin:0;width:100%;height:100%;background:#000}iframe{display:block;width:100%;height:100%;border:0}</style></head>
+<body><script>
+const player=document.createElement('iframe');
+const url=new URL('https://www.youtube.com/embed/xR9N_j1KdLI');
+url.search=new URLSearchParams({autoplay:'1',playsinline:'1',rel:'0',origin:location.origin});
+player.src=url.href;
+player.title='김부장 AI 제작 영상';
+player.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';
+player.allowFullscreen=true;
+player.referrerPolicy='strict-origin-when-cross-origin';
+document.body.append(player);
+</script></body></html>
