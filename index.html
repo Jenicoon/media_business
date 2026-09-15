@@ -127,8 +127,9 @@
   const videoPlayer=document.getElementById('video-player');
   videoTrigger.addEventListener('click',()=>{
     const frame=document.createElement('iframe');
-    const playerBase=location.protocol==='file:'?'http://127.0.0.1:4173':location.origin;
-    frame.src=playerBase+'/video-player.html';
+    frame.src=location.protocol==='file:'
+      ? 'http://127.0.0.1:4173/video-player.html'
+      : new URL('video-player.html',document.baseURI).href;
     frame.title='김부장 AI 제작 영상 — YouTube';
     frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';
     frame.allowFullscreen=true;
