@@ -12,7 +12,7 @@ APA 7판 기준. 교수님 피드백 반영본의 본문 인용과 대응합니�
 
 방송통신위원회. (2024b, December). *OTT 관련 주요 현황 및 방송시장 영향분석 결과* [보고서]. <https://www.kmcc.go.kr/download.do?fileSeq=60122>
 
-> 본문 적용: 15장 OTT 이용률의 2022~2023년 값은 위 보고서 p. 4, 2024년 값과 실시간 시청 경험 비율은 방송통신위원회 (2024a), pp. 3–4를 사용했습니다. 해당 보도자료 PDF: <https://www.kmcc.go.kr/download.do?fileSeq=60213>. 17장 방송사 드라마 편성·공급 작품 수는 방송통신위원회 (2024b), p. 23을 사용했습니다. 2019~2023년, 최초 공개일 기준, 단막극 포함이며 작품 수와 제작비 총액을 구분합니다.
+> 본문 적용: 15장 OTT 이용률의 2022~2023년 값은 위 보고서 p. 4, 2024년 값과 실시간 시청 경험 비율은 방송통신위원회 (2024a), pp. 3–4를 사용했습니다. 해당 보도자료 PDF: <https://www.kmcc.go.kr/download.do?fileSeq=60213>. 17장은 숏폼·AI 영상과 방송산업 변화로 개편했으며 세부 출처는 아래 추가 자료 및 조사 노트에 정리했습니다.
 
 방송통신위원회. (2025, June 30). *2024년 방송사업매출 전년 대비 0.9% 감소한 18조 8,042억원* [보도자료]. <https://www.kmcc.go.kr/download.do?fileSeq=61499>
 
@@ -39,6 +39,16 @@ JTBC. (n.d.). *JTBC 소개*. <https://jtbc.co.kr/company>
 Netflix. (2024, December 20). *넷플릭스-SBS, 전략적 파트너십 체결로 K-콘텐츠 경쟁력 확대 ‘맞손’* [보도자료]. <https://about.netflix.com/ko/news/netflix-and-sbs-strategic-partnership-to-expand-k-content-competitiveness>
 
 TV CHOSUN. (2024, July 15). *TV CHOSUN <미스터트롯3> 참가자 모집 시작! 오리지널 트로트 오디션 <미스터트롯3> 연말 방송 확정* [보도자료]. <https://www.tvchosun.com/pressroom/pressroom_001/677429/detail.cstv>
+
+## 17페이지 추가 자료
+
+방송미디어통신위원회. (2025a, December 30). *방미통위, 「2025 방송매체 이용행태조사」 결과 발표* [보도자료]. <https://www.kmcc.go.kr/download.do?fileSeq=62354>
+
+방송미디어통신위원회. (2025b, December 31). *2024년 국내 방송산업 현황을 담은 ‘방송산업 실태조사’ 결과 발표* [보도자료]. <https://www.kmcc.go.kr/download.do?fileSeq=62367>
+
+황유선, 정은진, & 노은정. (2025). *차세대 방송 미디어 비전수립 연구* (KMCC-2025-1). 정보통신정책연구원. <https://www.kisdi.re.kr/report/fileView.do?arrMasterId=3934580&id=1930256&key=m2101113024770>
+
+상세 수치와 해석: [17페이지 조사 노트](17페이지_숏폼_AI_자료조사.md). 기관명이 다른 기존 방송통신위원회 (2025)와 구분합니다.
 
 ## 사진
 
